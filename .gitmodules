@@ -4,3 +4,6 @@
 [submodule "test-git-pub-repo-subm-for-rep1-and-rep2"]
 	path = test-git-pub-repo-subm-for-rep1-and-rep2
 	url = git@github.com:example-team-in-on-github/test-git-pub-repo-subm-for-rep1-and-rep2.git
+[submodule "test-git-pub-repo-subm-for-rep1-and-rep2-as-https"]
+	path = test-git-pub-repo-subm-for-rep1-and-rep2-as-https
+	url = https://github.com/example-team-in-on-github/test-git-pub-repo-subm-for-rep1-and-rep2-as-https.git
