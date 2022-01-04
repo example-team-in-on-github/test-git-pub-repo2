@@ -1,0 +1,3 @@
+[submodule "test-git-pub-repo-subm-for-rep2"]
+	path = test-git-pub-repo-subm-for-rep2
+	url = git@github.com:example-team-in-on-github/test-git-pub-repo-subm-for-rep2.git
